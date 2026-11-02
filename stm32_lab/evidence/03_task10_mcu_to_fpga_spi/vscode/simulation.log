@@ -1,0 +1,3 @@
+VCD info: dumpfile wave.vcd opened for output.
+PASS task10: 4 SPI bytes, CS abort, UART hex output
+C:\Users\user\Desktop\LAB7\stm32_lab\fpga_task10_spi_rx\sim\tb_task10_spi_uart.sv:112: $finish called at 65390000 (1ps)

@@ -1,0 +1,11 @@
+{
+  "sources": [
+    "src/spi_master_tx.v",
+    "src/task11_spi_master.v",
+    "src/spi_slave_rx.v",
+    "src/uart.v",
+    "src/task10_spi_uart.v"
+  ],
+  "testbench": "sim/tb_task12_spi_link.sv",
+  "simulation_top": "tb_task12_spi_link"
+}

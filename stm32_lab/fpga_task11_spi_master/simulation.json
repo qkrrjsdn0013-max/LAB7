@@ -1,0 +1,5 @@
+{
+  "sources": ["src/spi_master_tx.v", "src/task11_spi_master.v"],
+  "testbench": "sim/tb_task11_spi_master.sv",
+  "simulation_top": "tb_task11_spi_master"
+}

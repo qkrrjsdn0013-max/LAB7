@@ -1,0 +1,3 @@
+VCD info: dumpfile wave.vcd opened for output.
+PASS task11: 4 SPI frames, 1 MHz limit, Mode 0 timing, 1-second interval setting
+C:\Users\user\Desktop\LAB7\stm32_lab\fpga_task11_spi_master\sim\tb_task11_spi_master.sv:84: $finish called at 90971000 (1ps)

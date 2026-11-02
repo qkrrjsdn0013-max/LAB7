@@ -1,0 +1,3 @@
+VCD info: dumpfile wave.vcd opened for output.
+PASS task12: 4 FPGA-to-FPGA SPI frames and UART hex output
+C:\Users\user\Desktop\LAB7\stm32_lab\fpga_task12_spi_link\sim\tb_task12_spi_link.sv:111: $finish called at 102670000 (1ps)
